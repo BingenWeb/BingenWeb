@@ -16,6 +16,16 @@
 | Google Analytics |✅  |
 | Etc. | ... |
 
+# ✨Para el bootcamp UDS✨
+# Comandos terminal
+| Comando | Descripción|
+| ------  | ------ |
+| Clear   |  Limpia el terminal|
+| mkdir   |  Crea una nueva carpeta|
+| ls      |  Lista de los elementos|
+| pwd     |  ¿Dónde estoy?|
+| code .  |  Abrir VSC |
+
 
 ### Lluís Yanguas
 
