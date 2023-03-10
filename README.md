@@ -17,7 +17,7 @@
 | Etc. | ... |
 
 # ✨Para el bootcamp UDS✨
-# Comandos terminal
+# 👀Comandos terminal
 | Comando | Descripción|
 | ------  | ------ |
 | Clear   |  Limpia el terminal|
@@ -27,5 +27,5 @@
 | code .  |  Abrir VSC |
 
 
-### Lluís Yanguas
+### 👀Lluís Yanguas
 
