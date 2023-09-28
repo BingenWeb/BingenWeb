@@ -16,21 +16,4 @@
 | Google Analytics |✅  |
 | Etc. | ... |
 
-# ✨Para el bootcamp UDS✨
-# 👀Comandos terminal
-| Comando | Descripción|
-| ------  | ------ |
-| Clear   |  Limpia el terminal|
-| mkdir   |  Crea una nueva carpeta|
-| ls      |  Lista de los elementos|
-| pwd     |  ¿Dónde estoy?|
-| code .  |  Abrir VSC |
-
-# ⌨Alias para el terminal
-| Alias |Descripción|
-|-------|-----------|
-|w="echo '`pwd`@`hostname`'"|Ver donde estoy, útil para sesiones remotas por SSH|
-| h="history *BarraRecta* less"| Mostrar el historial paginado|
-
-
 ### 👀Lluís Yanguas
